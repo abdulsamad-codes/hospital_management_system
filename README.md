@@ -21,7 +21,7 @@ A robust, Object-Oriented C++ application designed to manage hospital workflows,
 
 ## 📂 Project Structure
 
-- `1/`: Modular version (Recommended for Portfolio). Highlights clean code and dependency management.
+- `1/`: Modular version . Highlights clean code and dependency management.
 - `2/`: Monolithic version. All-in-one file implementation.
 
 ## ⚙️ Compilation & Setup
@@ -35,4 +35,4 @@ g++ -o hms main.cpp doctorClass.cpp patientClass.cpp roomClass.cpp surgeonClass.
 
 ## 👤 Author
 
-Developed as part of the 2nd Semester OOP Theory curriculum at [Your University/College].
+Developed as part of the 2nd Semester OOP Theory curriculum at Institute Of Management Sciences Peshawar.
