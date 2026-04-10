@@ -1,0 +1,31 @@
+Patient Name: Kamran
+Patient ID: 501
+Patient Disease: Fever
+Patient Age: 24
+Patient Admission Status: Admitted
+
+Patient Name: Maria
+Patient ID: 502
+Patient Disease: Asthma
+Patient Age: 30
+Patient Admission Status: Not Admitted
+
+Patient Name: Zeeshan
+Patient ID: 503
+Patient Disease: Fracture
+Patient Age: 45
+Patient Admission Status: Admitted
+
+Patient Name: Hina
+Patient ID: 504
+Patient Disease: Headache
+Patient Age: 19
+Patient Admission Status: Not Admitted
+
+Patient Name: Bilal
+Patient ID: 505
+Patient Disease: COVID-19
+Patient Age: 55
+Patient Admission Status: Admitted
+
+

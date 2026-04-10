@@ -1,0 +1,36 @@
+Doctor Name: Ali
+Doctor Specialization: Heart Surgery
+Doctor ID: 101
+Years of Experience: 12
+Room Number: 501
+Doctor Availability Status: Available
+
+Doctor Name: Sarah
+Doctor Specialization: Pediatrics
+Doctor ID: 102
+Years of Experience: 8
+Room Number: 302
+Doctor Availability Status: Available
+
+Doctor Name: Usman
+Doctor Specialization: Neurology
+Doctor ID: 103
+Years of Experience: 15
+Room Number: 405
+Doctor Availability Status: Not Available
+
+Doctor Name: Ayesha
+Doctor Specialization: Dermatology
+Doctor ID: 104
+Years of Experience: 5
+Room Number: 102
+Doctor Availability Status: Available
+
+Doctor Name: Ahmed
+Doctor Specialization: ENT
+Doctor ID: 105
+Years of Experience: 20
+Room Number: 204
+Doctor Availability Status: Not Available
+
+
